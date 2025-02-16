@@ -1,6 +1,8 @@
 import React from 'react';
 import { MessageCircle } from 'lucide-react';
-import GROUP1 from '../assets/group1.png';
+import GROUP1 from '../assets/Group1.png';
+
+///Users/apple/Desktop/chatapp/src/assets/Group1.png
 
 const ChatAppLanding = () => {
   return (
